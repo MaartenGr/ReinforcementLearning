@@ -1,6 +1,6 @@
-<img src="Images/procgen.gif">
+<img src="Images/procgen_small.gif">
 
-> A guide to train your RL-algorithm with minimal code
+> A guide to train your RL-algorithm with minimal code  
 
 This repo contains the code for the article on towardsdatascience for training
 state-of-the-art reinforcement learning algorithms using Stable-baselines and Gym. 
